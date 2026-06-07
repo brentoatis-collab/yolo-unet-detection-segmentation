@@ -3,8 +3,6 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 data/
-models/*.pt
-models/*.pth
 outputs/video/
 .DS_Store
 .env
