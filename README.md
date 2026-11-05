@@ -1,3 +1,6 @@
+> **Applied AI portfolio project by Brent Oatis, MBA**
+> Combining object detection and semantic segmentation for quality, safety, and scene-understanding workflows.
+
 # CST 544 Week 4 Assignment  
 ## Object Detection and Segmentation Model Using YOLO and U-Net
 
